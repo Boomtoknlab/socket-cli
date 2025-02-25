@@ -82,7 +82,7 @@
     "chalk-table": "^1.0.2",
     "cmd-shim": "^7.0.0",
     "fast-content-type-parse": "^2.0.1",
-    "has-flag": "4.0.0",
+    "has-flag": "5.0.1",
     "hpagent": "^1.2.0",
     "ignore": "^7.0.3",
     "meow": "^13.2.0",
